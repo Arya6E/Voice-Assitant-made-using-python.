@@ -1,3 +1,6 @@
+Voice Assistant (JARVIS)
+
+
 • Developed a voice-activated virtual assistant using Python, integrating speech recognition, text-to-speech 
 synthesis, and natural language processing to execute user commands.
 • Implemented features for web automation, including searching Wikipedia, and opening popular websites like 
